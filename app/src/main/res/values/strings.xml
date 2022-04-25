@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">ReMyMe</string>
+    <string name="title">Read My Messages</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="intro">ReMyMe can read your incoming text messages; allowing you to concentrate on driving, working and playing.</string>
+
+</resources>

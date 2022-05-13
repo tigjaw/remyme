@@ -1,2 +1,2 @@
 # remyme
-ReMyMe - a basic "Read My Messages" Android application (outdated)
+ReMyMe - a basic "Read My Messages" Android application (old)
